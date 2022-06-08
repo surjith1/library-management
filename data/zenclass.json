@@ -1,0 +1,111 @@
+{
+    "codekata": [
+      {
+        "name": "Mr.Sanjay",
+        "solved_problem": "80"
+      },
+      {
+        "name": "Mr.Abdulla",
+        "solved_problem": "90"
+      },
+      {
+        "name": "Mr.Kiran",
+        "solved_problem": "180"
+      },
+      {
+        "name": "Mr.Sharma",
+        "solved_problem": "80"
+      }
+    ],
+    "attendance": [
+        {
+          "name": "Mrs.Ram",
+          "month": "October",
+          "present": "12",
+          "absent": "5"
+        },
+        {
+            "name": "Mrs.Abraham",
+            "month": "November",
+            "present": "14",
+            "absent": "5"
+          },
+          {
+            "name": "Mrs.Kiran",
+            "month": "December",
+            "present": "15",
+            "absent": "5"
+          },
+          {
+            "name": "Mrs.Sharma",
+            "month": "August",
+            "present": "12",
+            "absent": "5"
+          }
+      ],
+      "topics": [
+        {
+            "month": "October",
+            "topic": ["HTML","Javascript","CSS"]
+          },
+          {
+              "month": "September",
+              "task": ["React"]
+            },
+            {
+              "month": "November",
+              "topic": ["MongoDB","Node"]
+            }
+      ],
+      "Tasks": [
+        {
+          "month": "October",
+          "task": ["HTML","Javascript","CSS"]
+        },
+        {
+            "month": "September",
+            "task": ["React"]
+          },
+          {
+            "month": "November",
+            "task": ["MongoDB","Node"]
+          }
+      ],
+      "company_drives": [
+        {
+          "name": "Mr.Alex",
+          "apperance": "15-oct-2020"
+        },
+        {
+            "name": "Mr.Jonee",
+            "apperance": "20-oct-2020"
+          }
+          ,
+        {
+            "name": "Mr.Ram",
+            "apperance": "30-oct-2020"
+          },
+          {
+              "name": "Mr.Atlee",
+              "apperance": "31-oct-2020"
+            },
+            {
+                "name": "Mr.Abraham",
+                "apperance": "20-Sep-2020"
+              }
+      ],
+      "mentors": [
+        {
+          "mentee_count": "25",
+          "mentor_name": "Mr.Ragav"
+        },
+        {
+            "mentee_count": "15",
+            "mentor_name": "Mr.SaiMohan"
+          },
+          {
+            "mentee_count": "20",
+            "mentor_name": "Mr.Abdul Kalam"
+          }
+      ]
+  }

@@ -1,0 +1,105 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Kiran",
+      "title": "Quantitative Aptitude",
+      "author": "R.S Agerwal",
+      "Gender": "Male",
+      "email": "kiran@gmail.com",
+      "dob": "24-03-1998",
+      "department": "IT",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/713PolAKv8L.jpg",
+      "publisher": "S.Chand Publishing",
+      "year": "2013",
+      "edition": "20",
+      "description": "Quantitative aptitude is an inseparable and an integral part of aptitude exams in India. It tests the quantitative skills along with logical and analytical skills. One can test their own number of handling techniques and problem-solving skills by solving these questions."
+    },
+    {
+      "title": "The Braille edition of the book Exam Warriors",
+      "author": "Narendra Modi",
+      "publisher": "penguim",
+      "year": 2017,
+      "edition": "1",
+      "description": "The Braille edition of 'Exam Warriors', a book authored by Prime Minister Narendra Modi, was released in Braille on Monday ahead of the board exams.Union Minister for Social Justice and Empowerment Thaawarchand Gehlot on Wednesday released the Braille edition of 'Exam Warriors', a book authored by Prime Minister Narendra Modi.",
+      "url": "http://www.viewstoday.in/wp-content/uploads/2019/12/2-copy-563.jpg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Jashwanth",
+      "title": "Believe-What Life and Cricket Taught Me",
+      "author": "Suresh Raina",
+      "Gender": "Male",
+      "email": "abc@gmail.com",
+      "dob": "24-03-1994",
+      "department": "CSE",
+      "publisher": "Penguin Random House India",
+      "year": "2021",
+      "edition": "2",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPznZcpnDoHzz3nIcPuVXLwi0XU7QQbqX-Wg&usqp=CAU",
+      "description": "In this book, Suresh Raina takes us through the challenges he faced as a young cricketer. He was bullied in school and at cricket camps, but he always punched above his weight, overcoming every adversity life threw at him and never giving up. This is the story of the lessons he learnt and the friendships he built."
+    },
+    {
+      "id": "4",
+      "name": "Abhinanth",
+      "title": "Whereabouts",
+      "author": "Jhumpa Lahiri",
+      "Gender": "Male",
+      "email": "abhinanth@gmail.com",
+      "dob": "24-03-1994",
+      "department": "MECH",
+      "publisher": "Guanda",
+      "year": "2018",
+      "edition": "10",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKmROIL4wylYMU2tIA2wGeaPsw8Bu0V3CYw&usqp=CAU",
+      "description": "Exuberance and dread, attachment and estrangement: in this novel, Jhumpa Lahiri stretches her themes to the limit. In the arc of one year, an unnamed narrator in an unnamed city, in the middle of her life's journey, realizes that she's lost her way."
+    },
+    {
+      "title": "The Wings of Fire",
+      "author": "Dr.ABJ ABDUL KALAM",
+      "publisher": "ABdul Kalam",
+      "year": 2015,
+      "edition": "5",
+      "description": "Wings of Fire (1999), is the autobiography of the Missile Man of India and President of India, Dr. A. P. J. Abdul Kalam. It was written by him and Arun Tiwari.[1]",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg/220px-Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg",
+      "id": "mC0znwt"
+    },
+    {
+      "title": "Srimad Bhagavata Mahapurana",
+      "author": "Veda Vyasa",
+      "publisher": "GITA PRESS, GORAKHPUR",
+      "year": 1981,
+      "edition": "2020",
+      "description": "The text consists of twelve books (skandhas) totalling 332 chapters (adhyayas) and 18,000 verses.[15][20] The tenth book, with about 4,000 verses, has been the most popular and widely studied.",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYvhldrmn4VqgaFERHrtrquXA5ww0Kdw29A&usqp=CAU",
+      "id": "6c9G-Xe"
+    }
+  ],
+  "staffs": [
+    {
+      "name": "Mrs.Valli",
+      "qualification": "M.E., Phd",
+      "designation": "The Head InCharge Library",
+      "email": "valli@gmail.com",
+      "phone": "8978779878",
+      "experience": "20"
+    },
+    {
+      "name": "Mrs.Anna",
+      "qualification": "B.SC English Literature",
+      "designation": "The Head of Librarian",
+      "email": "anna@gmail.com",
+      "phone": "8855987885",
+      "experience": "15"
+    },
+    {
+      "name": "Mr.Abraham",
+      "qualification": "B.SC Maths",
+      "designation": "The associate of Librarian",
+      "email": "anna@gmail.com",
+      "phone": "8855987885",
+      "experience": "15"
+    }
+  ]
+}
